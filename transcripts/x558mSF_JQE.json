@@ -1,0 +1,727 @@
+[
+  {
+    "text": "Hi everyone. Yes, S Alman from Open IIE",
+    "start": 0.96,
+    "duration": 10.24
+  },
+  {
+    "text": "announced that he bought Open Claw. So",
+    "start": 6.56,
+    "duration": 8.56
+  },
+  {
+    "text": "uh open claw now we live in a foundation",
+    "start": 11.2,
+    "duration": 8.96
+  },
+  {
+    "text": "open source and uh also the developer",
+    "start": 15.12,
+    "duration": 10.8
+  },
+  {
+    "text": "stay pit confirmed this um acquisition",
+    "start": 20.16,
+    "duration": 9.359
+  },
+  {
+    "text": "but it isn't really an acquisition but",
+    "start": 25.92,
+    "duration": 7.52
+  },
+  {
+    "text": "uh yeah the main developer of open claw",
+    "start": 29.519,
+    "duration": 8.001
+  },
+  {
+    "text": "will cooperate with open ie and uh this",
+    "start": 33.44,
+    "duration": 7.76
+  },
+  {
+    "text": "project is still important and",
+    "start": 37.52,
+    "duration": 7.359
+  },
+  {
+    "text": "interesting and probably it's hard to",
+    "start": 41.2,
+    "duration": 5.44
+  },
+  {
+    "text": "replicate",
+    "start": 44.879,
+    "duration": 5.761
+  },
+  {
+    "text": "uh so high growth of this project but",
+    "start": 46.64,
+    "duration": 7.2
+  },
+  {
+    "text": "honestly I'm not worried about this",
+    "start": 50.64,
+    "duration": 4.88
+  },
+  {
+    "text": "tweet",
+    "start": 53.84,
+    "duration": 6.16
+  },
+  {
+    "text": "um I mean uh open claw is a great",
+    "start": 55.52,
+    "duration": 8.8
+  },
+  {
+    "text": "project but uh maybe the people do not",
+    "start": 60.0,
+    "duration": 8.64
+  },
+  {
+    "text": "understand that it is just a loop with",
+    "start": 64.32,
+    "duration": 9.04
+  },
+  {
+    "text": "tools and skills. So there are uh much",
+    "start": 68.64,
+    "duration": 9.28
+  },
+  {
+    "text": "more uh great clones and projects with",
+    "start": 73.36,
+    "duration": 8.24
+  },
+  {
+    "text": "different focus that works like open",
+    "start": 77.92,
+    "duration": 7.36
+  },
+  {
+    "text": "claw. So you can port your knowledge and",
+    "start": 81.6,
+    "duration": 8.0
+  },
+  {
+    "text": "um your skills in other opensource",
+    "start": 85.28,
+    "duration": 6.08
+  },
+  {
+    "text": "projects",
+    "start": 89.6,
+    "duration": 5.28
+  },
+  {
+    "text": "if something bad happens to to open",
+    "start": 91.36,
+    "duration": 7.6
+  },
+  {
+    "text": "claw. This is a nanobot and this is the",
+    "start": 94.88,
+    "duration": 7.68
+  },
+  {
+    "text": "secret of open claw but also all the",
+    "start": 98.96,
+    "duration": 7.76
+  },
+  {
+    "text": "other uh magic loops that we have on",
+    "start": 102.56,
+    "duration": 9.919
+  },
+  {
+    "text": "LLMs. So um we have connectors for chats",
+    "start": 106.72,
+    "duration": 9.359
+  },
+  {
+    "text": "like telegram and WhatsApp and then we",
+    "start": 112.479,
+    "duration": 8.161
+  },
+  {
+    "text": "have this loop. So if your personal",
+    "start": 116.079,
+    "duration": 8.481
+  },
+  {
+    "text": "agent works or not, maybe it depends on",
+    "start": 120.64,
+    "duration": 8.8
+  },
+  {
+    "text": "the LLM that you use and also the skills",
+    "start": 124.56,
+    "duration": 8.56
+  },
+  {
+    "text": "and the memory. Uh and honestly, you can",
+    "start": 129.44,
+    "duration": 7.28
+  },
+  {
+    "text": "also use skills and memory without an",
+    "start": 133.12,
+    "duration": 7.6
+  },
+  {
+    "text": "agentic loop. So ju just try that like",
+    "start": 136.72,
+    "duration": 8.0
+  },
+  {
+    "text": "in open code if you want. But if you",
+    "start": 140.72,
+    "duration": 7.36
+  },
+  {
+    "text": "really need a loop on your skills, you",
+    "start": 144.72,
+    "duration": 8.239
+  },
+  {
+    "text": "can try uh much more implementation. So",
+    "start": 148.08,
+    "duration": 7.12
+  },
+  {
+    "text": "this is nanobot",
+    "start": 152.959,
+    "duration": 6.081
+  },
+  {
+    "text": "which is a personal assistant like open",
+    "start": 155.2,
+    "duration": 8.08
+  },
+  {
+    "text": "claw. So you can also port your skills",
+    "start": 159.04,
+    "duration": 7.12
+  },
+  {
+    "text": "your workspace skills in this project",
+    "start": 163.28,
+    "duration": 6.72
+  },
+  {
+    "text": "and it will work. Uh this project is",
+    "start": 166.16,
+    "duration": 9.04
+  },
+  {
+    "text": "just 4,000 line of code instead of uh",
+    "start": 170.0,
+    "duration": 8.2
+  },
+  {
+    "text": "430,000",
+    "start": 175.2,
+    "duration": 3.0
+  },
+  {
+    "text": "lines of code of open claw. Um some",
+    "start": 178.319,
+    "duration": 7.92
+  },
+  {
+    "text": "other projects are more focused on",
+    "start": 182.8,
+    "duration": 6.56
+  },
+  {
+    "text": "security and the sandboxes",
+    "start": 186.239,
+    "duration": 6.321
+  },
+  {
+    "text": "for the skills. So there are many focus",
+    "start": 189.36,
+    "duration": 7.28
+  },
+  {
+    "text": "some are uh very minimal some others are",
+    "start": 192.56,
+    "duration": 8.72
+  },
+  {
+    "text": "more focused on um sandbox the skill so",
+    "start": 196.64,
+    "duration": 9.36
+  },
+  {
+    "text": "that different skill uh do not mess up",
+    "start": 201.28,
+    "duration": 9.36
+  },
+  {
+    "text": "each other. So this is nanobot and this",
+    "start": 206.0,
+    "duration": 8.799
+  },
+  {
+    "text": "is uh in python.",
+    "start": 210.64,
+    "duration": 6.879
+  },
+  {
+    "text": "Then we have",
+    "start": 214.799,
+    "duration": 5.921
+  },
+  {
+    "text": "karapache which is uh another",
+    "start": 217.519,
+    "duration": 6.08
+  },
+  {
+    "text": "alternative of open close which is",
+    "start": 220.72,
+    "duration": 5.76
+  },
+  {
+    "text": "written in uh rust.",
+    "start": 223.599,
+    "duration": 7.441
+  },
+  {
+    "text": "So this is more focused on security.",
+    "start": 226.48,
+    "duration": 8.96
+  },
+  {
+    "text": "So security by default and was uh",
+    "start": 231.04,
+    "duration": 6.32
+  },
+  {
+    "text": "support",
+    "start": 235.44,
+    "duration": 5.04
+  },
+  {
+    "text": "and so on.",
+    "start": 237.36,
+    "duration": 7.12
+  },
+  {
+    "text": "And uh this is probably the project most",
+    "start": 240.48,
+    "duration": 9.44
+  },
+  {
+    "text": "focused on security. So uh unanticated",
+    "start": 244.48,
+    "duration": 7.119
+  },
+  {
+    "text": "arches",
+    "start": 249.92,
+    "duration": 6.24
+  },
+  {
+    "text": "uh port exposure just local host uh but",
+    "start": 251.599,
+    "duration": 7.681
+  },
+  {
+    "text": "it depends on your use case if you use",
+    "start": 256.16,
+    "duration": 6.319
+  },
+  {
+    "text": "it on public internet or if you use in a",
+    "start": 259.28,
+    "duration": 6.8
+  },
+  {
+    "text": "local area network. Alan",
+    "start": 262.479,
+    "duration": 7.041
+  },
+  {
+    "text": "uh skill supply chain",
+    "start": 266.08,
+    "duration": 6.48
+  },
+  {
+    "text": "prompt injection",
+    "start": 269.52,
+    "duration": 8.8
+  },
+  {
+    "text": "and um yeah it depends what you want. Uh",
+    "start": 272.56,
+    "duration": 10.639
+  },
+  {
+    "text": "most of these clones works with any LLM.",
+    "start": 278.32,
+    "duration": 8.64
+  },
+  {
+    "text": "Some others are just focused on cloud",
+    "start": 283.199,
+    "duration": 6.761
+  },
+  {
+    "text": "code.",
+    "start": 286.96,
+    "duration": 3.0
+  },
+  {
+    "text": "This is uh this is the smallest one.",
+    "start": 290.0,
+    "duration": 8.72
+  },
+  {
+    "text": "It's uh again written in brust. It's",
+    "start": 294.4,
+    "duration": 7.92
+  },
+  {
+    "text": "zero zero c claw",
+    "start": 298.72,
+    "duration": 6.96
+  },
+  {
+    "text": "and uh yeah this is this is the",
+    "start": 302.32,
+    "duration": 6.64
+  },
+  {
+    "text": "comparison of RAM usage if it is",
+    "start": 305.68,
+    "duration": 6.959
+  },
+  {
+    "text": "something important for you. So we have",
+    "start": 308.96,
+    "duration": 7.04
+  },
+  {
+    "text": "um open claw which is a gigabyte. Nano",
+    "start": 312.639,
+    "duration": 8.4
+  },
+  {
+    "text": "claw it's 100 megs. Pic claw is 10 megs",
+    "start": 316.0,
+    "duration": 9.28
+  },
+  {
+    "text": "and this zero claw is five megs. But it",
+    "start": 321.039,
+    "duration": 8.0
+  },
+  {
+    "text": "depends also what you do with this uh",
+    "start": 325.28,
+    "duration": 6.0
+  },
+  {
+    "text": "magic loops",
+    "start": 329.039,
+    "duration": 7.361
+  },
+  {
+    "text": "um pico claw and zero crow uh runs with",
+    "start": 331.28,
+    "duration": 8.8
+  },
+  {
+    "text": "uh very little hardware resources.",
+    "start": 336.4,
+    "duration": 7.68
+  },
+  {
+    "text": "So, a board of $10.",
+    "start": 340.08,
+    "duration": 6.64
+  },
+  {
+    "text": "But, uh, yeah, it depends what you do",
+    "start": 344.08,
+    "duration": 5.679
+  },
+  {
+    "text": "because if you do scraping, probably you",
+    "start": 346.72,
+    "duration": 7.44
+  },
+  {
+    "text": "need another computer to run um, uh, a",
+    "start": 349.759,
+    "duration": 8.16
+  },
+  {
+    "text": "browser. But if you use it just for ba",
+    "start": 354.16,
+    "duration": 6.72
+  },
+  {
+    "text": "basic features, you have um these",
+    "start": 357.919,
+    "duration": 4.881
+  },
+  {
+    "text": "options.",
+    "start": 360.88,
+    "duration": 6.8
+  },
+  {
+    "text": "And, uh, then we have POW, which is the",
+    "start": 362.8,
+    "duration": 8.239
+  },
+  {
+    "text": "other one. This is right uh this is",
+    "start": 367.68,
+    "duration": 6.72
+  },
+  {
+    "text": "written in go language",
+    "start": 371.039,
+    "duration": 5.921
+  },
+  {
+    "text": "and um",
+    "start": 374.4,
+    "duration": 6.639
+  },
+  {
+    "text": "there is also a nice demo here in the",
+    "start": 376.96,
+    "duration": 5.84
+  },
+  {
+    "text": "page",
+    "start": 381.039,
+    "duration": 5.041
+  },
+  {
+    "text": "and uh when you see this kind of demos",
+    "start": 382.8,
+    "duration": 7.2
+  },
+  {
+    "text": "you should always ask yourself",
+    "start": 386.08,
+    "duration": 7.52
+  },
+  {
+    "text": "where is the intelligence.",
+    "start": 390.0,
+    "duration": 9.759
+  },
+  {
+    "text": "This is a a demo which shows that",
+    "start": 393.6,
+    "duration": 12.56
+  },
+  {
+    "text": "uh you can receive alarms if a person go",
+    "start": 399.759,
+    "duration": 9.921
+  },
+  {
+    "text": "um in front of this camera",
+    "start": 406.16,
+    "duration": 5.92
+  },
+  {
+    "text": "and",
+    "start": 409.68,
+    "duration": 6.959
+  },
+  {
+    "text": "I'm having issues with the",
+    "start": 412.08,
+    "duration": 7.839
+  },
+  {
+    "text": "the video but you can look at the video.",
+    "start": 416.639,
+    "duration": 8.481
+  },
+  {
+    "text": "The the problem here is that the video",
+    "start": 419.919,
+    "duration": 10.0
+  },
+  {
+    "text": "u is analyzed by the camera itself which",
+    "start": 425.12,
+    "duration": 9.76
+  },
+  {
+    "text": "has um NPU like Google coral. So it",
+    "start": 429.919,
+    "duration": 8.881
+  },
+  {
+    "text": "emits that a person is in the video",
+    "start": 434.88,
+    "duration": 8.08
+  },
+  {
+    "text": "stream. So the magic is done in this",
+    "start": 438.8,
+    "duration": 7.839
+  },
+  {
+    "text": "hardware not in the piclow",
+    "start": 442.96,
+    "duration": 7.28
+  },
+  {
+    "text": "uh software in the this case.",
+    "start": 446.639,
+    "duration": 7.84
+  },
+  {
+    "text": "Um yeah you can try it. Uh many project",
+    "start": 450.24,
+    "duration": 8.72
+  },
+  {
+    "text": "have docker compos support so you can",
+    "start": 454.479,
+    "duration": 7.761
+  },
+  {
+    "text": "easily test your skills. So you can port",
+    "start": 458.96,
+    "duration": 8.56
+  },
+  {
+    "text": "your skills here and see if they works.",
+    "start": 462.24,
+    "duration": 8.799
+  },
+  {
+    "text": "Then we have nano claw which is another",
+    "start": 467.52,
+    "duration": 6.56
+  },
+  {
+    "text": "one but this is",
+    "start": 471.039,
+    "duration": 8.081
+  },
+  {
+    "text": "uh cloud code uh specific so if you use",
+    "start": 474.08,
+    "duration": 8.48
+  },
+  {
+    "text": "other llms probably uh you won't be able",
+    "start": 479.12,
+    "duration": 7.519
+  },
+  {
+    "text": "to to run nanoclow",
+    "start": 482.56,
+    "duration": 8.72
+  },
+  {
+    "text": "and then we have multis another one made",
+    "start": 486.639,
+    "duration": 10.161
+  },
+  {
+    "text": "in uh rust with integration of mcp tools",
+    "start": 491.28,
+    "duration": 10.8
+  },
+  {
+    "text": "and uh uh chats like uh telegram. So",
+    "start": 496.8,
+    "duration": 9.36
+  },
+  {
+    "text": "multilmm support streaming responses web",
+    "start": 502.08,
+    "duration": 8.32
+  },
+  {
+    "text": "gateway web gateway is the dashboard",
+    "start": 506.16,
+    "duration": 7.84
+  },
+  {
+    "text": "which is nice to have but you can also",
+    "start": 510.4,
+    "duration": 7.519
+  },
+  {
+    "text": "use this project without a dashboard.",
+    "start": 514.0,
+    "duration": 7.839
+  },
+  {
+    "text": "You can interact with the telegram and",
+    "start": 517.919,
+    "duration": 7.681
+  },
+  {
+    "text": "with the terminal to to configure this",
+    "start": 521.839,
+    "duration": 6.241
+  },
+  {
+    "text": "agents",
+    "start": 525.6,
+    "duration": 6.72
+  },
+  {
+    "text": "and uh yeah these are all the features.",
+    "start": 528.08,
+    "duration": 7.6
+  },
+  {
+    "text": "So it depends on your use case. If uh",
+    "start": 532.32,
+    "duration": 6.88
+  },
+  {
+    "text": "something bad happens to open globe uh",
+    "start": 535.68,
+    "duration": 6.48
+  },
+  {
+    "text": "you can move your skills in other",
+    "start": 539.2,
+    "duration": 6.16
+  },
+  {
+    "text": "projects and continue to to run the the",
+    "start": 542.16,
+    "duration": 4.64
+  },
+  {
+    "text": "skills.",
+    "start": 545.36,
+    "duration": 4.0
+  },
+  {
+    "text": "So that's it. I hope you found this",
+    "start": 546.8,
+    "duration": 6.08
+  },
+  {
+    "text": "video useful and see you in another one.",
+    "start": 549.36,
+    "duration": 6.32
+  },
+  {
+    "text": "Bye.",
+    "start": 552.88,
+    "duration": 2.8
+  }
+]
